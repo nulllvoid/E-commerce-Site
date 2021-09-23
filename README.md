@@ -6,4 +6,8 @@ Designed this Just for fun
 ### Download Zip and Extract
 
 #### open index.html with any browser
-[![Watch the video](https://youtu.be/ZP3ZvQgDxXY)
+
+## Demo
+
+https://user-images.githubusercontent.com/50104753/134590621-d6e6cb18-29d5-440a-8011-374ba635961b.mp4
+
